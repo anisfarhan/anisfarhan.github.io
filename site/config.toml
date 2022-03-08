@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Anis Farhan Itsnaini'
+theme = "PaperMod" 
